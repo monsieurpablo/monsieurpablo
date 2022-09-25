@@ -1,7 +1,7 @@
-### Hi there, I'm Pablo Arango 👋
+# Hi there, I'm Pablo Arango 👋
 
-## I'm a Computational Developer / Environmental Designer / Data Analyst
-And hopefully a enthusiast of Web Development
+### Computational Developer / Environmental Designer / Architect / Data Analyst
+#### And student of Web Development
 
 - I'm always trying to learn something new 🦉
 - I'm always thinking about how to abstract the problems 👁
