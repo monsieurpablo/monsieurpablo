@@ -1,44 +1,20 @@
-# Hi there, I'm Pablo Arango 👋
+# Pablo Arango
 
-### Computational Developer / Environmental Designer / Architect / Data Analyst
-#### And student of Web Development
+**Senior AI Engineer · Full-stack Python (FastAPI + React) · ML & simulation platforms**
+Remote from Medellín, Colombia (UTC-5, full US Eastern overlap).
 
-- I'm always trying to learn something new 🦉
-- I'm always thinking about how to abstract the problems 👁
--  2022 Goals:
-    - Learn more about Data Science and Machine Learning 🤓
-    - Learn JS and Web Development to deploy an app with Three.js and Rhino.Compute 🦏
-    - Deploy Apps as Services with Pollination Cloud and Streamlit 📊
-- ⚡️ Fun fact: I love salsa dancing, photography, and traveling. 🤗🌲🧡💛✨
-  
-## Connect with me
+I take ML models, LLM pipelines and simulation platforms from prototype to production. On contract to Hoare Lea, a UK engineering consultancy, I took its ML inference services to production (internal users grew from 5 to 50+ engineers) and I'm architecting its cloud platform for long-running physics simulations. 7 years of professional Python, with a background in building-performance simulation.
 
-[<img align="left" alt="monsieurpablo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="monsieurpablo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="monsieurpablo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br>
+[pabloarango.dev](https://pabloarango.dev) · [LinkedIn](https://www.linkedin.com/in/monsieurpablo) · [CV (PDF)](https://pabloarango.dev/cv.pdf)
 
-## Languages and Tools:
+## Selected work
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="Rhino3D" width="26px" src="https://w7.pngwing.com/pngs/454/77/png-transparent-rhinoceros-3d-computer-icons-rhino-rhino-rhino-logo-white-3d-computer-graphics-mammal-thumbnail.png" />
-<img align="left" alt="Grasshopper3D" width="26px" src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" />
-<img align="left" alt="Ladybug Tools" width="26px" src="https://www.ladybug.tools/assets/img/logo.png" />
-<img align="left" alt="Open Studio" width="26px" src="https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/openstudio_flat_logo.png?itok=3h_ETkBU" />
-<img align="left" alt="Conda" width="26px" src="https://avatars2.githubusercontent.com/u/6392739?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
+- **[Cloud Simulation Job Platform](https://pabloarango.dev/projects/cloud-simulation-platform/)**: an Azure job platform for long-running physics simulations. FastAPI job API, queue-triggered workers that scale to zero, React + TypeScript front end. (Hoare Lea; case study only, no code.)
+- **[Graph neural network for overheating prediction](https://pabloarango.dev/projects/gnn-overheating/)**: TM59 and Part O compliance in under 10 seconds, about 100x faster than the simulation it replaces. In production use. (Hoare Lea; case study only.)
+- **[Property Valuation Engine](https://pabloarango.dev/projects/property-valuation-engine/)**: fair asking price per m² for homes listed for sale in the Medellín metro area, with a calibrated interval and the comparable listings behind it. LightGBM, PostgreSQL/PostGIS, GitHub Actions.
+- **[LiDAR2Building API](https://pabloarango.dev/projects/lidar2building/)**: one latitude/longitude in England in, a 3D site-context model out. FastAPI job service with a Redis queue and PostgreSQL.
+- **[Vision-LLM Event Extraction Pipeline](https://pabloarango.dev/projects/vision-llm-event-extraction/)**: a scheduled pipeline that reads image posts with a vision model into strict JSON and publishes a searchable events site.
 
-<br>
- 
- ## Spotify Playing 🎧
- 
- [![Spotify](https://novatorem.jvelez-s.vercel.app//api/spotify)](https://open.spotify.com/user/juparangopl)
- 
- 
-<!-- Abbreviationss -->
-[twitter]: https://twitter.com/monsieurpablo
-[instagram]: https://instagram.com/monsieurpablo
-[linkedin]: https://www.linkedin.com/in/monsieurpablo/
+## Stack
+
+Python · FastAPI · React · TypeScript · PostgreSQL / PostGIS · Docker · Azure · PyTorch · LightGBM · LLM APIs · GitHub Actions
